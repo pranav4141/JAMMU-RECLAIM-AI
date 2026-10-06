@@ -232,41 +232,6 @@ JAMMU RECLAIM AI aims to help Jammu:
 
 ---
 
-## 🗂️ Project Structure
-
-```text
-jammu-reclaim-ai/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── maps/
-│   │   ├── charts/
-│   │   ├── services/
-│   │   └── data/
-│   └── public/
-│
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── routes/
-│   │   ├── services/
-│   │   ├── models/
-│   │   └── scoring/
-│   └── requirements.txt
-│
-├── data/
-│   ├── sites.json
-│   ├── jammu_district_boundary.geojson
-│   ├── generate.py
-│   └── test_geo.py
-│
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 ### Clone the repository
@@ -393,27 +358,6 @@ Prototype impact estimates should be validated using authoritative datasets befo
 
 ---
 
-## 💰 Estimated Prototype Cost
-
-### **₹15,000 – ₹25,000**
-
-The first prototype can be developed primarily using:
-
-- Open-source software
-- OpenStreetMap
-- Freely accessible satellite/geospatial datasets
-- Open-source GIS tools
-
-Full-scale deployment may require additional investment in:
-
-- High-resolution imagery
-- Cloud infrastructure
-- Official datasets
-- Field surveys
-- Municipal integrations
-- Automated monitoring
-
----
 
 ## 🗺️ Roadmap
 
