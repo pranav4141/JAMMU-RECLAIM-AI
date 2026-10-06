@@ -1,0 +1,23 @@
+{
+ "previous_dataset": {
+  "total": 42,
+  "inside": 34,
+  "rejected_outside": 8,
+  "rejected_ids": [
+   "JMU-008",
+   "JMU-010",
+   "JMU-018",
+   "JMU-025",
+   "JMU-026",
+   "JMU-036",
+   "JMU-038",
+   "JMU-042"
+  ]
+ },
+ "new_dataset": {
+  "points_sampled": 52,
+  "accepted_inside_boundary": 46,
+  "rejected_outside_or_edge": 6,
+  "change_alerts": 8
+ }
+}

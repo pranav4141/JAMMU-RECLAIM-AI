@@ -1,0 +1,4 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{margin:0;font-family:Inter,system-ui,sans-serif;background:radial-gradient(1200px 500px at 10% -10%,#12324a 0%,transparent 60%),#0b1424;background-attachment:fixed}
+.leaflet-container{height:100%;width:100%}
+.card{background:#fff;color:#0f172a;border-radius:16px;box-shadow:0 8px 24px -12px rgba(0,0,0,.5)}
